@@ -1,2 +1,0 @@
-# pynet
-Python Plus Course
